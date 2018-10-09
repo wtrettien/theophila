@@ -5,7 +5,8 @@
 
     p {
       font-size: 20px;
-      color: $a-light-color;
+      color: #d2caba;
+      font-family: Times New Roman, serif;
     }
   }
   img {
@@ -18,7 +19,7 @@
     }
   }
   .home-text {
-      background: rgba(20, 20, 20, 0.7);
+      background-size: 100% auto;
       padding: 2em;
       min-height: 120vh;
   }
@@ -29,14 +30,14 @@
   }
   .list-group-item {
     background: inherit;
-    font-family: Helvetica, sans-serif;
+    font-family: Times New Roman, serif;
     font-size: 15px;
-    background: rgba(20,20, 20, 0.6);
+//    background: rgba(20,20, 20, 0.6);
     border: rgba(20,20, 20, 1);
     a {
       color: $a-light-color;
       .glyphicon {
-        color: lightsteelblue;
+        color: $red-color;
         font-size: 30px;
         position: relative;
         top: 10px;
@@ -45,7 +46,15 @@
       }
     }
   }
-
+  h2{
+  	color: $a-light-color;
+  	width: 60%;
+  	line-height: 1.4em;
+  	float:left;
+  	text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+	padding: 20px;
+  }
   h1 {
     font-family: 'Berkshire Swash', cursive;
     color: lightsteelblue;
