@@ -1,351 +1,351 @@
-index,signatures,pagenum,category,description
-1,endpaper,,flyleaf,
-2,free endpaper,,flyleaf,
-3,flyleaf,,flyleaf,
-4,flyleaf,,flyleaf,
-5,flyleaf,,flyleaf,
-6,[insertion]r,,original print,
-7,[insertion]v,,original print,
-8,[π]r,,title page,
-9,[πv]v,,preliminary,
-10,A[1]r,,preliminary,
-11,A[1]v,,preliminary,
-12,[insertion]r,,recycled image,
-13,[insertion]v,,recycled image,
-14,[A2]r,,preliminary,
-15,[A2]v,,preliminary,
-16,¶[1]r,,preliminary,
-17,¶[1]v,,preliminary,
-18,[¶2]r,,preliminary,
-19,[¶2]v,,preliminary,
-20,¶¶[1]r,,preliminary,
-21,¶¶[1]v,,preliminary,
-22,[¶¶2]r,,preliminary,
-23,[¶¶2]v,,preliminary,
-24,¶¶¶[1]r,,preliminary,
-25,¶¶¶[1]v,,preliminary,
-26,[¶¶¶2]r,,preliminary,
-27,[¶¶¶2]v,,preliminary,
-28,B[1]r,,preliminary,
-29,B[1]v,,preliminary,
-30,B2r,,preliminary,
-31,B2v,,preliminary,recycled image
-32,B3r,,preliminary,recycled image
-33,B3v,,preliminary,recycled image
-34,[B4]r,,preliminary,recycled image
-35,[B4]v,,commendatory verse,
-36,[B5]r,,commendatory verse,
-37,[B5]v,,commendatory verse,
-38,(c)[1]r,,commendatory verse,
-39,(c)[1]v,,commendatory verse,
-40,[(c)2]r,,commendatory verse,
-41,[(c)2]v,,commendatory verse,
-42,(d)[1]r,,commendatory verse,
-43,(d)[1]v,,commendatory verse,
-44,[B6]r,,commendatory verse,
-45,[B6]v,,commendatory verse,
-46,C[1]r,,commendatory verse,
-47,C[1]v,,commendatory verse,
-48,C2r,,commendatory verse,
-49,C2v,,commendatory verse,
-50,C3r,,commendatory verse,
-51,C3v,,commendatory verse,
-52,[C4]r,,commendatory verse,
-53,[C4]v,,commendatory verse,
-54,[C5]r,,commendatory verse,
-55,[C5]v,,commendatory verse,
-56,[C6]r,,commendatory verse,
-57,[C6]v,,commendatory verse,
-58,[insertion]r,,original print,
-59,[insertion]v,,original print,
-60,D[1]r,1,poetry (English),
-61,D[1]v,2,poetry (English),
-62,B2r,3,poetry (English),
-63,B2v,4,poetry (English),
-64,D3r,5,poetry (English),
-65,D3v,6,poetry (English),
-66,[D4]r,7,poetry (English),
-67,[D4]v,8,poetry (English),
-68,[D5]r,9,poetry (English),
-69,[D5]v,10,poetry (English),
-70,[D6]r,11,poetry (English),
-71,[D6]v,12,poetry (English),
-72,E[1]r,13,poetry (English),
-73,E[1]v,14,poetry (English),pattern poem
-74,E2r,15,preliminary,
-75,E2v,16,preliminary,
-76,E3r,17,preliminary,
-77,E3v,18,preliminary,
-78,[E4]r,19,preliminary,
-79,[E4]v,20,preliminary,
-80,[E5]r,21,preliminary,
-81,[E5]v,22,preliminary,
-82,[E6]r,23,poetry (English),
-83,[E6]v,24,poetry (English),
-84,[insertion]r,,recycled image,
-85,[insertion]v,,recycled image,
-86,F[1]r,25,poetry (English),
-87,F[1]v,26,poetry (English),
-88,E2r,27,poetry (English),
-89,E2v,28,poetry (English),
-90,F3r,29,poetry (English),
-91,F3v,30,poetry (English),
-92,[F4]r,31,poetry (English),
-93,[F4]v,32,poetry (English),
-94,[F5]r,33,poetry (English),
-95,[F5]v,34,poetry (English),
-96,[F6]r,35,poetry (English),
-97,[F6]v,36,poetry (English),
-98,[insertion]r,,original print,
-99,[insertion]v,,original print,
-100,G[1]r,37,poetry (English),
-101,G[1]v,38,poetry (English),
-102,G2r,39,poetry (English),
-103,G2v,40,poetry (English),
-104,G3r,41,poetry (English),
-105,G3v,42,poetry (English),
-106,[G4]r,43,poetry (English),
-107,[G4]v,44,poetry (English),
-108,[G5]r,45,poetry (English),
-109,[G5]v,46,poetry (English),
-110,[G6]r,47,poetry (English),
-111,[G6]v,48,poetry (English),
-112,H[1]r,49,poetry (English),
-113,H[1]v,50,poetry (English),
-114,[insertion]rr,,original print,
-115,[insertion]vv,,original print,
-116,H2r,51,poetry (English),
-117,H2v,52,poetry (English),
-118,H3r,53,poetry (English),
-119,H3v,54,poetry (English),
-120,[H4]r,55,poetry (English),
-121,[H4]v,56,poetry (English),
-122,[H5]r,57,poetry (English),
-123,[H5]v,58,poetry (English),
-124,[H6]r,59,poetry (English),
-125,[H6]v,60,poetry (English),
-126,I[1]r,61,poetry (English),
-127,I[1]v,62,poetry (English),
-128,I2r,63,poetry (English),
-129,I2v,69,poetry (English),
-130,I3r,65,poetry (English),
-131,I3v,,original print,
-132,[I4]r,67,poetry (English),
-133,[I4]v,68,poetry (English),
-134,[I5]r,63,poetry (English),
-135,[I5]v,70,poetry (English),
-136,[I6]r,71,poetry (English),
-137,[I6]v,72,poetry (English),
-138,K[1]r,73,poetry (English),
-139,K[1]v,74,poetry (English),
-140,K2r,75,poetry (English),
-141,K2v,76,poetry (English),
-142,K3r,77,poetry (English),
-143,K3v,78,poetry (English),
-144,[K4]r,79,poetry (English),
-145,[K4]v,80,poetry (English),
-146,[K5]r,81,poetry (English),
-147,[K5]v,82,poetry (English),
-148,[K6]r,83,poetry (English),
-149,[K6]v,84,poetry (English),
-150,L[1]r,85,poetry (English),
-151,L[1]v,86,poetry (English),
-152,L2r,87,poetry (English),
-153,L2v,88,poetry (English),
-154,L2r,89,poetry (English),
-155,L2v,90,poetry (English),
-156,[L4]r,91,poetry (English),
-157,[L4]v,92,poetry (English),
-158,[L5]r,93,poetry (English),
-159,[L5]v,94,poetry (English),
-160,[insertion]r,,original print,
-161,[insertion]v,,original print,
-162,[L6]r,95,poetry (English),
-163,[L6]v,96,poetry (English),
-164,M[1]r,97,poetry (English),
-165,M[1]v,98,poetry (English),
-166,M2r,99,poetry (English),
-167,M2v,100,poetry (English),
-168,M3r,101,poetry (English),
-169,M3v,102,poetry (English),
-170,[M4]r,103,poetry (English),
-171,[M4]v,104,poetry (English),
-172,[M5]r,105,poetry (English),
-173,[M5]v,106,poetry (English),
-174,[M6]r,107,poetry (English),
-175,[M6]v,108,poetry (English),
-176,[insertion]r,,original print,
-177,[insertion]v,,original print,
-178,N[1]r,109,poetry (English),
-179,N[1]v,110,poetry (English),
-180,N2r,111,poetry (English),
-181,N2v,112,poetry (English),
-182,N3r,113,poetry (English),
-183,N3v,114,poetry (English),
-184,[N4]r,115,poetry (English),
-185,[N4]v,116,poetry (English),
-186,[N5]r,117,poetry (English),
-187,[N5]v,118,poetry (English),
-188,[N6]r,119,poetry (English),
-189,[N6]v,120,poetry (English),
-190,O[1]r,121,poetry (English),
-191,O[1]v,122,poetry (English),
-192,[insertion]r,,recycled image,
-193,[insertion]v,,recycled image,
-194,[O2]r,123,preliminary,
-195,[O2]v,124,poetry (Latin),
-196,[insertion]r,,original print,
-197,[insertion]v,,original print,
-198,[O3]r,125,poetry (English),
-199,[O3]v,126,poetry (Latin),
-200,[O4]r,127,poetry (English),
-201,[O4]v,128,poetry (Latin),
-202,[O5]r,129,poetry (English),
-203,[O5]v,130,poetry (Latin),
-204,[O6]r,131,poetry (English),
-205,[O6]v,132,poetry (Latin),
-206,P[1]r,133,poetry (English),
-207,P[1]v,134,poetry (Latin),
-208,P2r,135,poetry (English),
-209,P2v,136,poetry (Latin),
-210,P3r,137,poetry (English),
-211,P3v,138,poetry (Latin),
-212,[P4]r,139,poetry (English),
-213,[P4]v,140,poetry (Latin),
-214,[P5]r,141,poetry (English),
-215,[P5]v,142,poetry (Latin),
-216,[P6]r,143,poetry (English),
-217,[P6]v,144,poetry (Latin),
-218,Q[1]r,145,poetry (English),
-219,Q[1]v,146,poetry (Latin),
-220,Q2r,147,poetry (English),
-221,Q2v,148,translation,
-222,Q3r,149,translation,
-223,Q3v,150,translation,
-224,[Q4]r,151,translation,
-225,[Q4]v,152,translation,
-226,[Q5]r,153,translation,
-227,[Q5]v,154,translation,
-228,[Q6]r,155,translation,
-229,[Q6]v,156,translation,
-230,R[1]r,157,translation,
-231,R[1]v,158,translation,
-232,R2r,159,translation,
-233,R2v,160,translation,
-234,R3r,161,translation,pattern poem
-235,R3v,162,translation,
-236,[R4]r,163,translation,
-237,[R4]v,164,translation,
-238,[R5]r,165,translation,
-239,[R5]v,166,translation,
-240,[R6]r,167,translation,
-241,[R6]v,168,translation,
-242,S[1]r,169,translation,
-243,S[1]v,170,translation,
-244,S2r,171,translation,
-245,S2v,172,translation,
-246,S3r,173,translation,
-247,S3v,174,translation,
-248,[S4]r,175,recycled poetry,
-249,[S4]v,176,poetry (Latin),
-250,[S5]r,177,poetry (English),
-251,[S5]v,178,poetry (Latin),
-252,[S6]r,179,poetry (English),
-253,[S6]v,180,poetry (English),
-254,T[1]r,181,poetry (English),
-255,T[1]v,182,poetry (English),
-256,T2r,183,poetry (English),
-257,T2v,184,poetry (English),
-258,T3r,185,poetry (English),
-259,T3v,186,poetry (English),
-260,[T4]r,187,poetry (English),
-261,[T4]v,188,poetry (English),
-262,[T5]r,189,poetry (English),
-263,[T5]v,190,poetry (English),
-264,[T6]r,191,poetry (English),
-265,[T6]v,192,poetry (English),
-266,V[1]r,193,poetry (English),
-267,V[1]v,194,poetry (English),
-268,V2r,195,poetry (English),
-269,V2v,196,poetry (English),
-270,V3r,197,poetry (English),
-271,V3v,198,poetry (English),
-272,[V4]r,191,poetry (English),
-273,[V4]v,200,poetry (English),
-274,[V5]r,201,poetry (English),
-275,[V5]v,202,poetry (English),
-276,[V6]r,203,poetry (English),
-277,[V6]v,204,poetry (English),
-278,X[1]r,205,poetry (English),
-279,X[1]v,206,poetry (English),recycled image
-280,[X2]r,207,poetry (Latin),
-281,[X2]v,208,poetry (Latin),
-282,Y[1]r,209,poetry (Latin),recycled image
-283,Y[1]v,210,poetry (Latin),recycled image
-284,[Y2]r,211,poetry (Latin),
-285,[Y2]v,212,poetry (Latin),recycled image
-286,Z[1]r,213,poetry (Latin),
-287,Z[1]v,214,poetry (Latin),
-288,[Z2]r,215,poetry (Latin),
-289,[Z2]v,216,poetry (Latin),
-290,Aa[1]r,217,poetry (Latin),
-291,Aa[1]v,218,poetry (Latin),
-292,[Aa2]r,219,poetry (Latin),
-293,[Aa2]v,220,poetry (English),
-294,Bb[1]r,221,poetry (English),
-295,Bb[1]v,222,poetry (English),
-296,[Bb2]r,223,poetry (English),
-297,[Bb2]v,224,poetry (English),
-298,Cc[1]r,225,poetry (English),
-299,Cc[1]v,226,poetry (English),
-300,[Cc2]r,227,poetry (English),
-301,[Cc2]v,228,poetry (English),
-302,Dd[1]r,229,poetry (English),
-303,Dd[1]v,230,poetry (English),
-304,[Dd2]r,231,poetry (English),
-305,[Dd2]v,232,poetry (English),
-306,Ee[1]r,233,poetry (English),
-307,Ee[1]v,234,poetry (English),
-308,[insertion]r,,original print,
-309,[insertion]v,,original print,
-310,[Ee2]r,235,poetry (Latin),
-311,[Ee2]v,236,poetry (English),
-312,Ff[1]r,237,poetry (English),
-313,Ff[1]v,238,poetry (English),
-314,[Ff2]r,239,poetry (English),
-315,[Ff2]v,240,poetry (English),
-316,Gg[1]r,241,poetry (English),
-317,Gg[1]v,242,poetry (English),
-318,[Gg2]r,243,poetry (English),
-319,[Gg2]v,244,poetry (English),
-320,Hh[1]r,245,poetry (English),recycled image
-321,Hh[1]v,246,poetry (English),
-322,[Hh2]r,247,poetry (English),
-323,[Hh2]v,248,poetry (English),
-324,Ii[1]r,249,poetry (English),
-325,Ii[1]v,250,poetry (English),
-326,[Ii2]r,251,poetry (English),
-327,[Ii2]v,252,poetry (Latin),
-328,Kk[1]r,253,poetry (Latin),
-329,Kk[1]v,254,translation,
-330,[Kk2]r,255,translation,
-331,[Kk2]v,256,translation,
-332,Ll[1]r,257,translation,
-333,Ll[1]v,258,translation,
-334,[Ll2]r,259,translation,
-335,[Ll2]v,260,translation,
-336,Mm[1]r,261,translation,
-337,Mm[1]v,262,translation,
-338,[Mm2]r,263,translation,
-339,[Mm2]v,264,translation,
-340,Nn[1]r,265,translation,
-341,Nn[1]v,266,translation,
-342,[Nn2]r,267,poetry (Latin),
-343,[Nn2]v,268,poetry (Latin),
-344,[insertion]r,,recycled image,
-345,[insertion]v,,recycled image,
-346,[insertion]r,,recycled image,
-347,[insertion]v,,recycled image,
-348,[flyleaf],,flyleaf,
-349,[flyleaf],,flyleaf,
-350,[flyleaf],,flyleaf,
+﻿"index","signatures","pagenum","category","description"
+"1","endpaper","","flyleaf","☞ The brown leather bookplate pasted to this endpaper is Benlowes' coat of arms, probably cut from an earlier binding. The three other bookplates document later owners: Chandos Leigh, 1st Baron Leigh (1791-1850); Beverly Chew (1850-1924), President of the Grolier Club; and the American composer Jerome Kern (1885-1945), who wrote “Ol' Man River” and “Smoke Gets in Your Eyes,” among other popular classics."
+"2","endpaper","","flyleaf",""
+"3","flyleaf","","flyleaf","☞ Note the small typed text in the top left corner of the page: “BOUND BY C. MURTON.” Charles Murton was a bookbinder working in London in the first decades of the nineteenth century; most likely he rebound this book for Baron Leigh or shortly before Leigh bought it. Other pencil markings on this page show later owners counting the number of plates against the Grolier Club catalogue — evidence of the nineteenth-century collectors' desire for what they deemed complete and perfect copies."
+"4","flyleaf","","flyleaf",""
+"5","flyleaf","","flyleaf",""
+"6","χr","","original print","☞ If you click the page to zoom in, you'll see that this plate has been pasted to a paper frame to support it."
+"7","χv","","original print",""
+"8","πr","","title page","☞ Characteristically, Benlowes does not use his full name on the title page but “E. B.,” characteristically styling himself as divine poesie's humble servant. His initials are as large as the name of John Jenkins, the popular domestic composer who, the title page suggests, set some parts of the poem to song, or “fit Aires.” The “R. N.” named below as the printer is Roger Norton, of a prominent family of stationers; for more on his contributions, see the tour stop on page 24."
+"9","πv","","title page",""
+"10","A1r","","preliminary",""
+"11","A1v","","preliminary",""
+"12","χr","","recycled image",""
+"13","χv","","recycled image",""
+"14","A2r","","preliminary",""
+"15","A2v","","preliminary",""
+"16","¶1r","","preliminary",""
+"17","¶1v","","preliminary",""
+"18","¶2r","","preliminary",""
+"19","¶2v","","preliminary",""
+"20","¶¶1r","","preliminary",""
+"21","¶¶1v","","preliminary",""
+"22","¶¶2r","","preliminary",""
+"23","¶¶2v","","preliminary",""
+"24","¶¶¶1r","","preliminary",""
+"25","¶¶¶1v","","preliminary",""
+"26","¶¶¶2r","","preliminary",""
+"27","¶¶¶2v","","preliminary",""
+"28","B1r","","preliminary",""
+"29","B1v","","preliminary",""
+"30","B2r","","preliminary",""
+"31","B2v","","preliminary",""
+"32","B3r","","preliminary",""
+"33","B3v","","preliminary",""
+"34","B4r","","preliminary",""
+"35","B4v","","preliminary","☞ The author of this commendatory poem is Jeremy Collier the elder, father of the younger  Collier who famously wrote an attack on English drama in 1698. Collier must have read drafts of Theophila, as his work appears as a response to Benlowes' several times in this book. For instance, he translated Canto VII into Latin (see page 254), provided verses for a plate (see the tour stop next to page 235), and here writes commendatory verse responding to the poem printed on the pages prior. Collier's involvement in Benlowes' work points to its social life in manuscript."
+"36","B5r","","preliminary",""
+"37","B5v","","preliminary","☞ The author of this commendatory poem is the colorful Walter Montagu (1603-1677), an English diplomat and secret agent working in the service of Queen Henrietta Maria. Montagu — who converted to Catholicism after witnessing exorcisms in a famous witchraft trial in Loudun, France — was hiding abroad by the time Theophila was published in 1652. Eventually, he would become abbot of a Benedictine monastery. The inclusion of his commendatory verse here, in a book written by the former- and now virulently anti-Catholic Benlowes, should serve as a cautionary tale against categorizing early modern religious verse by religious belief or denomination."
+"38","(c)1r","","preliminary","☞ The author of this commendatory poem is Sir William Denny, a Royalist and an almost exact contemporary of Benlowes. The year after Theophila came out, Denny's own lengthy treatise on how to life a good life and why not to commit suicide appeared in print. This poem and the next by William Davenant have non-continuous signatures and are placed differently within the preliminaries in other copies, suggesting they were late additions to the text."
+"39","(c)1v","","preliminary",""
+"40","(c)2r","","preliminary",""
+"41","(c)2v","","preliminary",""
+"42","(d)1r","","preliminary",""
+"43","(d)1v","","preliminary","☞ This page concludes perhaps the longest commendatory poem, written to Benlowes by Sir William Davenant (1606-1668). Another colorful figure, the Royalist and later Catholic Davenant had been convicted of high treason by Parliament in 1641 and spent much of that decade moving furtively back and forth between France and England to escape execution. Eventually he was caught at sea and imprisoned in the Tower of London, where he was when he wrote this poem for Benlowes, as we see on this page. Davenant was Poet Laureate at the time, succeeding Ben Jonson and preceding John Dryden in the position."
+"44","B6r","","preliminary","☞ The author of the commendatory poem that begins here is Thomas Pestell (ca. 1586-1667), an English poet and clergyman."
+"45","B6v","","preliminary",""
+"46","C1r","","preliminary",""
+"47","C1v","","preliminary","☞ The poem on the bottom half of this page is signed “T. Benlowes,” but even Benlowes' careful biographer Harold Jenkins is unable to identify this family member. It may be Edward Benlowes himself, perhaps under the playful guise of “Theophila Benlowes,” given the poet’s penchant for word games."
+"48","C2r","","preliminary","☞ This commendatory poem was written by Arthur Wilson (ca. 1595-1652). Wilson — who died the year Theophila was released — was a supporter of Parliament in the English Civil War and thus a political opponent of Benlowes and many of the other poets represented here. His inclusion, like that of the Catholic poets, suggests the breadth of Benlowes' associates."
+"49","C2v","","preliminary",""
+"50","C3r","","preliminary",""
+"51","C3v","","preliminary","☞ The author of this commendatory poem is Thomas Philipot, a poet who wrote commendatory verse like this for several other important volumes, including William Cartwright's posthumous collection of plays, also sold by Humphrey Moseley."
+"52","C4r","","preliminary",""
+"53","C4v","","preliminary","☞ This poem by John Gauden (ca. 1600-1662) begins a string Latin poems praising Theophila and Benlowes. Gauden, an English cleric, was Benlowes' neighbor in Bocking, Essex. He is notorious today as the reputed author of King Charles I's Eikon Basilike, a purported spiritual autobiography by the king printed ten days after his execution as Royalist propaganda."
+"54","C5r","","preliminary","☞ This second Latin commendatory poem is by Pierre de Cardonnel (1614-1667), a French Huguenot (a Protestant) and merchant who moved to England in the late 1630s. Although little was known of him for a long time, his life and work as a poet, translator, and collector of books has recently been illuminated by Noel Calcolm in his book Aspects of Hobbes (Oxford University Press, 2002)."
+"55","C5v","","preliminary","☞ The “P. F.” who penned this Latin poem was Payne Fisher (1616-1693). Fisher is most famous for his poem on the Battle of Marston Moor, a crucial event in the First English Civil War. There, the Royalists, for whom Fisher was fighting during the battle, were decisively defeated and forced to abandon much of Northern England. When Fisher's poem was printed in 1650, it was packed with commendatory verse by Benlowes and many of his associates who also appear here in Theophila, including Alexander Ross, Thomas Philipot, and Pierre de Cardonenel."
+"56","C6r","","preliminary",""
+"57","C6v","","preliminary",""
+"58","χr","","original print",""
+"59","χv","","original print",""
+"60","D1r","1","poetry (English)",""
+"61","D1v","2","poetry (English)",""
+"62","B2r","3","poetry (English)",""
+"63","B2v","4","poetry (English)",""
+"64","D3r","5","poetry (English)",""
+"65","D3v","6","poetry (English)",""
+"66","D4r","7","poetry (English)",""
+"67","D4v","8","poetry (English)",""
+"68","D5r","9","poetry (English)",""
+"69","D5v","10","poetry (English)",""
+"70","D6r","11","poetry (English)",""
+"71","D6v","12","poetry (English)",""
+"72","E1r","13","poetry (English)",""
+"73","E1v","14","poetry (English)",""
+"74","E2r","15","preliminary",""
+"75","E2v","16","preliminary",""
+"76","E3r","17","preliminary",""
+"77","E3v","18","preliminary",""
+"78","E4r","19","preliminary",""
+"79","E4v","20","preliminary",""
+"80","E5r","21","preliminary",""
+"81","E5v","22","preliminary",""
+"82","E6r","23","poetry (English)",""
+"83","E6v","24","poetry (English)",""
+"84","χr","","recycled image",""
+"85","χv","","recycled image",""
+"86","F1r","25","poetry (English)",""
+"87","F1v","26","poetry (English)",""
+"88","E2r","27","poetry (English)",""
+"89","E2v","28","poetry (English)",""
+"90","F3r","29","poetry (English)",""
+"91","F3v","30","poetry (English)",""
+"92","F4r","31","poetry (English)",""
+"93","F4v","32","poetry (English)",""
+"94","F5r","33","poetry (English)",""
+"95","F5v","34","poetry (English)",""
+"96","F6r","35","poetry (English)",""
+"97","F6v","36","poetry (English)",""
+"98","χr","","original print",""
+"99","χv","","original print",""
+"100","G1r","37","poetry (English)",""
+"101","G1v","38","poetry (English)",""
+"102","G2r","39","poetry (English)",""
+"103","G2v","40","poetry (English)",""
+"104","G3r","41","poetry (English)",""
+"105","G3v","42","poetry (English)",""
+"106","G4r","43","poetry (English)",""
+"107","G4v","44","poetry (English)",""
+"108","G5r","45","poetry (English)",""
+"109","G5v","46","poetry (English)",""
+"110","G6r","47","poetry (English)",""
+"111","G6v","48","poetry (English)",""
+"112","H1r","49","poetry (English)",""
+"113","H1v","50","poetry (English)",""
+"114","χrr","","original print",""
+"115","χvv","","original print",""
+"116","H2r","51","poetry (English)",""
+"117","H2v","52","poetry (English)",""
+"118","H3r","53","poetry (English)",""
+"119","H3v","54","poetry (English)",""
+"120","H4r","55","poetry (English)",""
+"121","H4v","56","poetry (English)",""
+"122","H5r","57","poetry (English)",""
+"123","H5v","58","poetry (English)",""
+"124","H6r","59","poetry (English)",""
+"125","H6v","60","poetry (English)",""
+"126","I1r","61","poetry (English)",""
+"127","I1v","62","poetry (English)",""
+"128","I2r","63","poetry (English)",""
+"129","I2v","69","poetry (English)",""
+"130","I3r","65","poetry (English)",""
+"131","I3v","","original print",""
+"132","I4r","67","poetry (English)",""
+"133","I4v","68","poetry (English)",""
+"134","I5r","63","poetry (English)",""
+"135","I5v","70","poetry (English)",""
+"136","I6r","71","poetry (English)",""
+"137","I6v","72","poetry (English)",""
+"138","K1r","73","poetry (English)",""
+"139","K1v","74","poetry (English)",""
+"140","K2r","75","poetry (English)",""
+"141","K2v","76","poetry (English)",""
+"142","K3r","77","poetry (English)",""
+"143","K3v","78","poetry (English)",""
+"144","K4r","79","poetry (English)",""
+"145","K4v","80","poetry (English)",""
+"146","K5r","81","poetry (English)",""
+"147","K5v","82","poetry (English)",""
+"148","K6r","83","poetry (English)",""
+"149","K6v","84","poetry (English)",""
+"150","L1r","85","poetry (English)",""
+"151","L1v","86","poetry (English)",""
+"152","L2r","87","poetry (English)",""
+"153","L2v","88","poetry (English)",""
+"154","L2r","89","poetry (English)",""
+"155","L2v","90","poetry (English)",""
+"156","L4r","91","poetry (English)",""
+"157","L4v","92","poetry (English)",""
+"158","L5r","93","poetry (English)",""
+"159","L5v","94","poetry (English)",""
+"160","χr","","original print",""
+"161","χv","","original print",""
+"162","L6r","95","poetry (English)",""
+"163","L6v","96","poetry (English)",""
+"164","M1r","97","poetry (English)",""
+"165","M1v","98","poetry (English)",""
+"166","M2r","99","poetry (English)",""
+"167","M2v","100","poetry (English)",""
+"168","M3r","101","poetry (English)",""
+"169","M3v","102","poetry (English)",""
+"170","M4r","103","poetry (English)",""
+"171","M4v","104","poetry (English)",""
+"172","M5r","105","poetry (English)",""
+"173","M5v","106","poetry (English)",""
+"174","M6r","107","poetry (English)",""
+"175","M6v","108","poetry (English)",""
+"176","χr","","original print",""
+"177","χv","","original print",""
+"178","N1r","109","poetry (English)",""
+"179","N1v","110","poetry (English)",""
+"180","N2r","111","poetry (English)",""
+"181","N2v","112","poetry (English)",""
+"182","N3r","113","poetry (English)",""
+"183","N3v","114","poetry (English)",""
+"184","N4r","115","poetry (English)",""
+"185","N4v","116","poetry (English)",""
+"186","N5r","117","poetry (English)",""
+"187","N5v","118","poetry (English)",""
+"188","N6r","119","poetry (English)",""
+"189","N6v","120","poetry (English)",""
+"190","O1r","121","poetry (English)",""
+"191","O1v","122","poetry (English)",""
+"192","χr","","recycled image",""
+"193","χv","","recycled image",""
+"194","O2r","123","preliminary",""
+"195","O2v","124","poetry (Latin)",""
+"196","χr","","original print",""
+"197","χv","","original print",""
+"198","O3r","125","poetry (English)",""
+"199","O3v","126","poetry (Latin)",""
+"200","O4r","127","poetry (English)",""
+"201","O4v","128","poetry (Latin)",""
+"202","O5r","129","poetry (English)",""
+"203","O5v","130","poetry (Latin)",""
+"204","O6r","131","poetry (English)",""
+"205","O6v","132","poetry (Latin)",""
+"206","P1r","133","poetry (English)",""
+"207","P1v","134","poetry (Latin)",""
+"208","P2r","135","poetry (English)",""
+"209","P2v","136","poetry (Latin)",""
+"210","P3r","137","poetry (English)",""
+"211","P3v","138","poetry (Latin)",""
+"212","P4r","139","poetry (English)",""
+"213","P4v","140","poetry (Latin)",""
+"214","P5r","141","poetry (English)",""
+"215","P5v","142","poetry (Latin)",""
+"216","P6r","143","poetry (English)",""
+"217","P6v","144","poetry (Latin)",""
+"218","Q1r","145","poetry (English)",""
+"219","Q1v","146","poetry (Latin)",""
+"220","Q2r","147","poetry (English)",""
+"221","Q2v","148","translation",""
+"222","Q3r","149","translation",""
+"223","Q3v","150","translation",""
+"224","Q4r","151","translation",""
+"225","Q4v","152","translation",""
+"226","Q5r","153","translation",""
+"227","Q5v","154","translation",""
+"228","Q6r","155","translation",""
+"229","Q6v","156","translation",""
+"230","R1r","157","translation",""
+"231","R1v","158","translation",""
+"232","R2r","159","translation",""
+"233","R2v","160","translation",""
+"234","R3r","161","translation","pattern poem"
+"235","R3v","162","translation",""
+"236","R4r","163","translation",""
+"237","R4v","164","translation",""
+"238","R5r","165","translation",""
+"239","R5v","166","translation",""
+"240","R6r","167","translation",""
+"241","R6v","168","translation",""
+"242","S1r","169","translation",""
+"243","S1v","170","translation",""
+"244","S2r","171","translation",""
+"245","S2v","172","translation",""
+"246","S3r","173","translation",""
+"247","S3v","174","translation",""
+"248","S4r","175","recycled poetry",""
+"249","S4v","176","poetry (Latin)",""
+"250","S5r","177","poetry (English)",""
+"251","S5v","178","poetry (Latin)",""
+"252","S6r","179","poetry (English)",""
+"253","S6v","180","poetry (English)",""
+"254","T1r","181","poetry (English)",""
+"255","T1v","182","poetry (English)",""
+"256","T2r","183","poetry (English)",""
+"257","T2v","184","poetry (English)",""
+"258","T3r","185","poetry (English)",""
+"259","T3v","186","poetry (English)",""
+"260","T4r","187","poetry (English)",""
+"261","T4v","188","poetry (English)",""
+"262","T5r","189","poetry (English)",""
+"263","T5v","190","poetry (English)",""
+"264","T6r","191","poetry (English)",""
+"265","T6v","192","poetry (English)",""
+"266","V1r","193","poetry (English)",""
+"267","V1v","194","poetry (English)",""
+"268","V2r","195","poetry (English)",""
+"269","V2v","196","poetry (English)",""
+"270","V3r","197","poetry (English)",""
+"271","V3v","198","poetry (English)",""
+"272","V4r","191","poetry (English)",""
+"273","V4v","200","poetry (English)",""
+"274","V5r","201","poetry (English)",""
+"275","V5v","202","poetry (English)",""
+"276","V6r","203","poetry (English)",""
+"277","V6v","204","poetry (English)",""
+"278","X1r","205","poetry (English)",""
+"279","X1v","206","poetry (English)","recycled image"
+"280","X2r","207","poetry (Latin)",""
+"281","X2v","208","poetry (Latin)",""
+"282","Y1r","209","poetry (Latin)","recycled image"
+"283","Y1v","210","poetry (Latin)","recycled image"
+"284","Y2r","211","poetry (Latin)",""
+"285","Y2v","212","poetry (Latin)","recycled image"
+"286","Z1r","213","poetry (Latin)",""
+"287","Z1v","214","poetry (Latin)",""
+"288","Z2r","215","poetry (Latin)",""
+"289","Z2v","216","poetry (Latin)",""
+"290","Aa1r","217","poetry (Latin)",""
+"291","Aa1v","218","poetry (Latin)",""
+"292","Aa2r","219","poetry (Latin)",""
+"293","Aa2v","220","poetry (English)",""
+"294","Bb1r","221","poetry (English)",""
+"295","Bb1v","222","poetry (English)",""
+"296","Bb2r","223","poetry (English)",""
+"297","Bb2v","224","poetry (English)",""
+"298","Cc1r","225","poetry (English)",""
+"299","Cc1v","226","poetry (English)",""
+"300","Cc2r","227","poetry (English)",""
+"301","Cc2v","228","poetry (English)",""
+"302","Dd1r","229","poetry (English)",""
+"303","Dd1v","230","poetry (English)",""
+"304","Dd2r","231","poetry (English)",""
+"305","Dd2v","232","poetry (English)",""
+"306","Ee1r","233","poetry (English)",""
+"307","Ee1v","234","poetry (English)",""
+"308","χr","","original print",""
+"309","χv","","original print",""
+"310","Ee2r","235","poetry (Latin)",""
+"311","Ee2v","236","poetry (English)",""
+"312","Ff1r","237","poetry (English)",""
+"313","Ff1v","238","poetry (English)",""
+"314","Ff2r","239","poetry (English)",""
+"315","Ff2v","240","poetry (English)",""
+"316","Gg1r","241","poetry (English)",""
+"317","Gg1v","242","poetry (English)",""
+"318","Gg2r","243","poetry (English)",""
+"319","Gg2v","244","poetry (English)",""
+"320","Hh1r","245","poetry (English)",""
+"321","Hh1v","246","poetry (English)",""
+"322","Hh2r","247","poetry (English)",""
+"323","Hh2v","248","poetry (English)",""
+"324","Ii1r","249","poetry (English)",""
+"325","Ii1v","250","poetry (English)",""
+"326","Ii2r","251","poetry (English)",""
+"327","Ii2v","252","poetry (Latin)",""
+"328","Kk1r","253","poetry (Latin)",""
+"329","Kk1v","254","translation",""
+"330","Kk2r","255","translation",""
+"331","Kk2v","256","translation",""
+"332","Ll1r","257","translation",""
+"333","Ll1v","258","translation",""
+"334","Ll2r","259","translation",""
+"335","Ll2v","260","translation",""
+"336","Mm1r","261","translation",""
+"337","Mm1v","262","translation",""
+"338","Mm2r","263","translation",""
+"339","Mm2v","264","translation",""
+"340","Nn1r","265","translation",""
+"341","Nn1v","266","translation",""
+"342","Nn2r","267","poetry (Latin)",""
+"343","Nn2v","268","poetry (Latin)",""
+"344","χr","","recycled image",""
+"345","χv","","recycled image",""
+"346","χr","","recycled image",""
+"347","χv","","recycled image",""
+"348","flyleaf","","flyleaf",""
+"349","flyleaf","","flyleaf",""
+"350","flyleaf","","flyleaf",""
