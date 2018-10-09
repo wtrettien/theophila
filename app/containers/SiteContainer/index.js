@@ -9,23 +9,34 @@ import { Link } from 'react-router-dom'
 import { Navbar, Nav, NavItem } from 'react-bootstrap'
 import cc from '../../images/cc.svg'
 import by from '../../images/by.svg'
+import title from '../../images/theophila.png'
+import structure from '../../images/structure.png'
+import about from '../../images/about.png'
+import read from '../../images/read.png'
+
 
 export default class SiteContainer extends React.Component { // eslint-disable-line react/prefer-stateless-function
 
   render() {
     return (
       <div className="page-container">
-        <Navbar inverse>
+        <Navbar>
           <Navbar.Header>
             <Navbar.Brand>
-              <NavItem componentClass={Link} to="/" href="/">Used Books</NavItem></Navbar.Brand>
+              <NavItem componentClass={Link} to="/" href="/">
+                <img src={title} width="200" alt="Portrait of Benlowes" /> 
+              </NavItem></Navbar.Brand>
           </Navbar.Header>
           <Nav>
             <NavItem componentClass={Link} to="/reader" href="/reader">
-             Browse
+                <img src={read} height="30" alt="Read" /> 
             </NavItem>
-            <NavItem componentClass={Link} to="/structure" href="/structure">Structure</NavItem>
-            <NavItem componentClass={Link} to="/about" href="/about">About</NavItem>
+            <NavItem componentClass={Link} to="/structure" href="/structure">
+                <img src={structure} height="30" alt="Structure" /> 
+            </NavItem>
+            <NavItem componentClass={Link} to="/about" href="/about">
+                <img src={about} height="30" alt="About" /> 
+            </NavItem>
           </Nav>
 
         </Navbar>
