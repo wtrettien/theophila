@@ -6,18 +6,18 @@ const testData = require('../data/test/pages.json')
 const testTour = require('../tour/test/tour.json')
 
 const categoryColors = {
-  translation: 'RebeccaPurple',
+  translation: '#6c9fe6',
   flyleaf: 'darkslategrey',
   'commendatory verse': '#3366cc',
   engraving: '#dc3912',
-  'original print': '#ff9900',
+  'original print': '#f78f34',
   'pattern poem': '#109618',
-  'poetry (English)': '#316395',
-  'poetry (Latin)': '#0099c6',
-  preliminary: '#dd4477',
-  'recycled image': '#66aa00',
-  'title page': '#b82e2e',
-  'recycled poetry': 'MediumOrchid',
+  'poetry (English)': '#466085',
+  'poetry (Latin)': '#658bbf',
+  preliminary: '#9c383b',
+  'recycled image': '#ffbc63',
+  'title page': '#faf0d2',
+  'recycled poetry': '#ffea4d',
 }
 
 
