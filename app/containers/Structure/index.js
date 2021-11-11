@@ -141,7 +141,7 @@ export default class Structure extends React.Component {
     inserts /= 2
 
     return (<p>
-      Contains {folios} lea{folios >= 2 ? 'ves' : 'f'}
+      Contains {folios} folio{folios >= 2 ? 's' : ''}
       { inserts > 0 ? ` and ${inserts} insertion${inserts > 1 ? 's' : ''}` : ''}
     </p>)
   }

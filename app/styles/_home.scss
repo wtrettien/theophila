@@ -2,42 +2,44 @@
 
 .home {
   [class*="col-"] {
-
     p {
       font-size: 20px;
-      color: #d2caba;
-      font-family: Times New Roman, serif;
+      color: $a-light-color;
+      margin-left: 25px;
     }
   }
   img {
-    margin: 10px;
+    margin: 15px;
     filter: brightness(1.5) grayscale(40%);
-    padding: 15px;
+    padding: 0px;
     &.img-circle {
       border-top: 1px dashed $signatures-color;
       border-bottom: 1px dashed $signatures-color;
     }
   }
   .home-text {
-      background-size: 100% auto;
+	  color: $tour-color;
       padding: 2em;
       min-height: 120vh;
+      border-radius: 20px;
   }
 
   .list-group {
     clear: both;
     margin-top: 4em;
+
+
   }
   .list-group-item {
-    background: inherit;
-    font-family: Times New Roman, serif;
+    font-family: Helvetica, sans-serif;
     font-size: 15px;
-//    background: rgba(20,20, 20, 0.6);
-    border: rgba(20,20, 20, 1);
+    background: $homepage-accent;
+    border: 0px;
     a {
-      color: $a-light-color;
+      color: $tour-color;
+
       .glyphicon {
-        color: $red-color;
+        color: oldlace;
         font-size: 30px;
         position: relative;
         top: 10px;
@@ -46,19 +48,15 @@
       }
     }
   }
-  h2{
-  	color: $a-light-color;
-  	width: 60%;
-  	line-height: 1.4em;
-  	float:left;
-  	text-align: center;
-    font-family: 'Berkshire Swash', cursive;
-	padding: 20px;
-  }
+
   h1 {
     font-family: 'Berkshire Swash', cursive;
-    color: lightsteelblue;
-    font-size: 100px;
+    border-bottom: 2px double $homepage-accent;
+    font-size: 80px;
+    color: $a-light-color;
+  }
+  h2{
+	color: $homepage-accent;
+	margin-left: 20px;
   }
 }
-
